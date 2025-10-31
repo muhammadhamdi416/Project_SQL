@@ -21,7 +21,7 @@ Project analisis dataset gaji profesional data science menggunakan MySQL. Datase
    ```sql
    SOURCE database/schema.sql
    SOURCE database/data_import.sql
-   SOURCE analysis/basic_analysis.sql
+   SOURCE analysis/queries.sql
 
 
 ## Cara Menggunakan
