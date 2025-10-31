@@ -20,3 +20,22 @@ Project analisis dataset gaji profesional data science menggunakan MySQL. Datase
 2. Import database schema:
    ```sql
    SOURCE database/schema.sql
+   SOURCE database/data_import.sql
+   SOURCE analysis/basic_analysis.sql
+
+
+## 🎯 Cara Menggunakan
+
+1. **Buat repository baru di GitHub** dengan nama "ds-salary-mysql-analysis"
+
+2. **Upload semua file** ke repository tersebut
+
+3. **Import ke MySQL**:
+```bash
+mysql -u username -p < database/schema.sql
+mysql -u username -p < database/data_import.sql
+
+4. **jalankan analisis **:
+   SOURCE analysis/basic_analysis.sql;
+   SOURCE analysis/advanced_queries.sql;
+   SOURCE analysis/insights.sql;
