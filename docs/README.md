@@ -34,9 +34,18 @@ Project analisis dataset gaji profesional data science menggunakan MySQL. Datase
    ```bash
    mysql -u username -p < database/schema.sql
    mysql -u username -p < database/data_import.sql
+   ```
 
 4. **Jalankan analisis**:
   ```sql
    SOURCE analysis/basic_analysis.sql;
    SOURCE analysis/advanced_queries.sql;
    SOURCE analysis/insights.sql;
+  ```
+
+## Preview Project
+  1. Data_Import
+<img src="Images-/Data_Import.png" alt="Data Import">
+
+  2. Advanced_Queries
+<img src="Images-/advanced_queries.png" alt="Advanced Queries.">
