@@ -46,11 +46,7 @@ Project analisis dataset gaji profesional data science menggunakan MySQL. Datase
 ## Preview Project
 
   1. Data_Import
-<img src="ds-salary-mysql-analysis/Images/Data_Import.png" alt="Data_Import">
+![Data Import](../Images/Data_Import.png)
 
-![Gambar 2](ds-salary-mysql-analysis/Images/Data_Import.png)
-
-![Gambar 2](../Images/Data_Import.png)
-
-  2. Advanced_Queries
-<img src="Images/Advanced_Queries.png" alt="Advanced_Queries">
+  3. Advanced_Queries
+![Advanced Queries](../Images/Advanced_Queries.png)
