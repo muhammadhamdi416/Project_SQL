@@ -1,4 +1,4 @@
-# Data Analyst Salary Analysis - MySQL Project
+# Data Analyst Salary Analysis 
 
 ## Overview
 Project analisis dataset gaji profesional data science menggunakan MySQL. Dataset mencakup informasi gaji dari tahun 2020-2022 dengan berbagai faktor seperti experience level, lokasi, tipe employment, dan lain-lain.
